@@ -17,14 +17,14 @@ I am a school teacher. I have a husband and two children. I really enjoy learnin
 + JavaScript(basic)
 ### Code Example
 ---
-```
+
 function mult(a, b) {
   return a * b;
 }
 
 let result = mult(2, 2);
 alert( result );
-```
+
 ### Experience
 ---
 ### Education
