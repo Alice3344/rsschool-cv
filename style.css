@@ -4,6 +4,7 @@
   margin: 0;
 }
 
+
 body {
   min-height: 100vh;
   margin: 0;
@@ -80,8 +81,9 @@ html {
 .avatar {
   width: 150px;
   height: 150px;
-  margin: 10px auto 0;
+  margin: 30px auto 30px;
 }
+
 .skills-item, .education-item, .hobbies-item {
   margin: 10px 0 10px 0;
   position: relative;
@@ -131,9 +133,7 @@ html {
   }
 }
 
-#avatar img {
-  display: block;
-  margin: auto;
+.avatar img  {
   border-radius: 40px;
 }
 
