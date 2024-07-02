@@ -27,3 +27,11 @@ alert( result );
 ```
 ### Experience
 ---
+### Education
+---
++ Mozyr Pedagogical University
++ JS/FE Pre-School 2023Q2
++ Belarusian State Pedagogical University
+### English
+---
+A2 (I don't know much English, but I've been practicing Duolingo for almost a year)
