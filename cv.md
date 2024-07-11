@@ -3,7 +3,7 @@
 ### Contacts
 ---
 + **Location:** Pinsk, Belarus
-+ **Phone:** +375 29 336-47-03
++ **Phone:** +375 29 33-67-03
 + **Email:** nadezhda.shlyazhko@gmail.com
 + **GitHub:** [Alice3344](https://github.com/Alice3344)
 
@@ -31,7 +31,7 @@ alert( result );
 ---
 + Mozyr Pedagogical University
 + JS/FE Pre-School 2023Q2
-+ Belarusian State Pedagogical University
++ Belarusian State Pedagogical University,2024
 ### English
 ---
 A2 (I don't know much English, but I've been practicing Duolingo for almost a year)
